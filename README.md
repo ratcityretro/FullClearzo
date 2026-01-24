@@ -1,2 +1,28 @@
-# FullClearzo
-Rules for the Kaizo IronMON variant, Full Clearzo.
+# Full Clearzo Ruleset
+
+**Full Clearzo** is a Kaizo Ironmon variant where an additional rule is added: **all trainers in every dungeon must be defeated before leaving the dungeon**.
+
+Otherwise, Full Clearzo is played using the standard **Kaizo Ironmon** ruleset.
+
+This increases difficulty and strategic risk, as it mandates full clears of dungeons that are typically partially routed or skipped, including areas such as **Rock Tunnel**, **Silph Co.**, and **Victory Road**, and forces additional risk in early-game dungeons.
+
+## VERY LARGE DISCLAIMER from Modcast
+
+> **"yuhh"**
+
+## General Rules for Clearzo
+
+0. Every Dungeon must be cleared, fully, upon entry.
+1. **Pokémon Tower** in Lavender Town must be **full-cleared up to Marowak on the first entry**.
+2. Victory Road must be full-cleared, as it is considered a Dungeon.
+3. **The Sevii Islands are legal** and may be entered at any point before the Elite Four once you unlock them.  
+   - The three islands (One, Two, Three) accessible before the Elite Four are treated as **one continuous dungeon**.
+   - All trainers must be defeated with **no Pokémon Center or NPC heals** allowed during the clear.
+4. After you defeat the Elite Four, your leaderboard position is determined from your **Victory Lap** on the remaining Sevii Islands (Four, Five, Six, Seven).
+   - These islands are considered one continuous dungeon.
+   - Pokémon Center and NPC heals are forbidden.
+   - This is a death march. You proceed until your Pokémon faints, tracking how many trainers you defeated at the time of demise.
+5. Legendary Pokémon with a **BST of 580** are legal as starter Pokémon.  
+   - If a BST 580 Pokémon is taken from the starter table, **pivoting after the lab fight is not allowed**, and the Pokémon must be run. This includes Content Cave pivoting as well.
+
+Good luck and **FCOD**! (full clear or die)
