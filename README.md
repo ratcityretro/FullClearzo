@@ -18,11 +18,14 @@ If your game is patched with the National Dex from the beginning (this is typica
 3. **The Sevii Islands are legal** and may be entered at any point before the Elite Four once you unlock them.  
    - The three islands (One, Two, Three) accessible before the Elite Four are treated as **one continuous dungeon**.
    - All trainers must be defeated with **no Pokémon Center or NPC heals** allowed during the clear.
+   - You may utilize the Move Relearner once on this trip to Sevii, provided you have the necessary currency. This includes learning multiple moves.
 4. After you defeat the Elite Four, your leaderboard position is determined from your **Victory Lap** on the remaining Sevii Islands (Four, Five, Six, Seven).
    - These islands are considered one continuous dungeon.
    - Pokémon Center and NPC heals are forbidden.
+   - You may ultilize the Move Relearner once on this trip to Sevii.
    - This is a death march. You proceed until your Pokémon faints, tracking how many trainers you defeated at the time of demise.
-5. Legendary Pokémon with a **BST of 580** are legal as starter Pokémon.  
+5. Legendary Pokémon with exactly a **BST of 580** are legal as starter Pokémon.  
    - If a BST 580 Pokémon is taken from the starter table, **pivoting after the lab fight is not allowed**, and the Pokémon must be run. This includes Content (Diglett) Cave pivoting as well.
+   - If the table **ONLY** has Pokémon over the 580 BST threshold, the base Kaizo rule of pivoting immediately (or trashing the seed) applies.
 
 Good luck and **FCOD**! (full clear or die)
