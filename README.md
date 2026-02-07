@@ -1,5 +1,5 @@
 # Full Clearzo Ruleset
-Link to [Typo's Discord for Clearzo Discussion](https://discord.com/invite/jMBFB7TW)
+Link to [Typo's Discord for Clearzo Discussion](https://discord.gg/Q8zYpznW)
 
 **Full Clearzo** is an FireRed/LeafGreen Kaizo Ironmon variant where an additional rule is added: **all trainers in every dungeon must be defeated before leaving the dungeon**.
 
