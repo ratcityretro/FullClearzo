@@ -25,7 +25,8 @@ If your game is patched with the National Dex from the beginning (this is typica
    - You may ultilize the Move Relearner once on this trip to Sevii.
    - This is a death march. You proceed until your Pokémon faints, tracking how many trainers you defeated at the time of demise.
 5. Legendary Pokémon with exactly a **BST of 580** are legal as starter Pokémon.  
-   - If a BST 580 Pokémon is taken from the starter table, **pivoting after the lab fight is not allowed**, and the Pokémon must be run. This includes Content (Diglett) Cave pivoting as well.
+   - If a BST 580 Pokémon is taken from the starter table, **the chosen Pokémon must be ran unless otherwise disallowed due to other rules**.
+   - If the Pokémon can be ran, you are not allowed to pivot. This includes Content (Diglett) Cave pivoting as well.
    - If the table **ONLY** has Pokémon over the 580 BST threshold, the base Kaizo rule of pivoting immediately (or trashing the seed) applies.
 
 Good luck and **FCOD**! (full clear or die)
