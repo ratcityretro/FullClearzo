@@ -6,8 +6,6 @@ Entry must be declared in [typo's Discord](https://discord.gg/Q8zYpznW), in the 
 
 **Deadline to declare entry:** February 28th, 2026
 
----
-
 ## The Bets
 
 All participants are competing to achieve the **furthest valid clear** within the 1500 seeds they attempt during the Season 2 window. Outcomes are determined per bet category as follows:
@@ -22,8 +20,6 @@ The victor may choose the emote design and theme, provided it complies with stan
 **Charity Opt-In**  
 In lieu of the Subs Bet, the victor may elect to activate the **Charity Opt-In**. If chosen, participants who do **not** hold the furthest clear will instead **donate to a charity selected by the victor**, in an amount approximately equivalent to **$100 USD**. 
 This option replaces sub gifting entirely for those participants and must be declared in advance like the other categories.
-
----
 
 ## Participants
 
@@ -41,8 +37,6 @@ Below are the current participants, grouped by the bet they are participating in
 | [wischy](https://www.twitch.tv/wischy) | ❌ | Rapidash (76) died to Koga's first mon |
 | [yogurt632](https://www.twitch.tv/yogurt632) | ❌ | — |
 
----
-
 ### Emote Bettors
 
 | Participant | Seeds Completed | Furthest Submitted Clear |
@@ -50,15 +44,11 @@ Below are the current participants, grouped by the bet they are participating in
 | [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌ | — |
 | [cheesebutt__](https://www.twitch.tv/cheesebutt__) | ❌ | — |
 
----
-
 ### Charity Opt-In
 
 | Participant | Seeds Completed | Furthest Submitted Clear |
 |------------|------------------|--------------------------|
 | [shiro__yami](https://www.twitch.tv/shiro__yami) | ❌ | — |
-
----
 
 ## Notes
 
