@@ -30,3 +30,11 @@ If your game is patched with the National Dex from the beginning (this is typica
    - If the table **ONLY** has Pokémon over the 580 BST threshold, the base Kaizo rule of pivoting immediately (or trashing the seed) applies.
 
 Good luck and **FCOD**! (full clear or die)
+
+## Full Clearzo Seasons
+
+- **[Season 2](./FullClearzoSeason2.md)**  
+  February 1st, 2026 → April 30th, 2026  
+  Tracks participants, progress, and bet outcomes.
+  Winner: TBD
+
