@@ -32,7 +32,7 @@ Below are the current participants, grouped by the bet they are participating in
 | [zeldacore](https://www.twitch.tv/zeldacore) | ❌ | A Pidgeot heading to Koga, too full of hate to die |
 | [ratcityretro](https://www.twitch.tv/ratcityretro) | ❌ | — |
 | [puffsun](https://www.twitch.tv/puffsun) | ❌ | — |
-| [YOUDONTKNOWJACKpac](https://www.twitch.tv/YOUDONTKNOWJACKpac) | ❌ | — |
+| [spewingmucus](https://www.twitch.tv/spewingmucus) | ❌ | — |
 | [shapedandshaded](https://www.twitch.tv/shapedandshaded) | ❌ | — |
 | [wischy](https://www.twitch.tv/wischy) | ❌ | Blastoise (85) died to Blaine's final mon and ace - Trainers defeated, including Sevii: 284/447 (63.5%) |
 | [yogurt632](https://www.twitch.tv/yogurt632) | ❌ | — |
