@@ -34,7 +34,7 @@ Below are the current participants, grouped by the bet they are participating in
 | [puffsun](https://www.twitch.tv/puffsun) | ❌ | — |
 | [YOUDONTKNOWJACKpac](https://www.twitch.tv/YOUDONTKNOWJACKpac) | ❌ | — |
 | [shapedandshaded](https://www.twitch.tv/shapedandshaded) | ❌ | — |
-| [wischy](https://www.twitch.tv/wischy) | ❌ | Rapidash (76) died to Koga's first mon |
+| [wischy](https://www.twitch.tv/wischy) | ❌ | A Blastoise past Koga |
 | [yogurt632](https://www.twitch.tv/yogurt632) | ❌ | — |
 
 ### Emote Bettors
