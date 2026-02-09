@@ -34,7 +34,7 @@ Below are the current participants, grouped by the bet they are participating in
 | [puffsun](https://www.twitch.tv/puffsun) | ❌ | — |
 | [YOUDONTKNOWJACKpac](https://www.twitch.tv/YOUDONTKNOWJACKpac) | ❌ | — |
 | [shapedandshaded](https://www.twitch.tv/shapedandshaded) | ❌ | — |
-| [wischy](https://www.twitch.tv/wischy) | ❌ | A Blastoise past Koga |
+| [wischy](https://www.twitch.tv/wischy) | ❌ | Blastoise (85) died to Blaine's final mon and ace - Trainers defeated, including Sevii: 284/447 (63.5%) |
 | [yogurt632](https://www.twitch.tv/yogurt632) | ❌ | — |
 
 ### Emote Bettors
