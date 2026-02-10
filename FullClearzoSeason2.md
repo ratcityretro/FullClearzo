@@ -29,7 +29,7 @@ Below are the current participants, grouped by the bet they are participating in
 
 | Participant | Seeds Completed | Furthest Submitted Clear |
 |------------|------------------|--------------------------|
-| [zeldacore](https://www.twitch.tv/zeldacore) | ❌ | A Pidgeot heading to Koga, too full of hate to die |
+| [zeldacore](https://www.twitch.tv/zeldacore) | ❌ | A Pidgeot heading to Blaine, too full of hate to die |
 | [ratcityretro](https://www.twitch.tv/ratcityretro) | ❌ | — |
 | [puffsun](https://www.twitch.tv/puffsun) | ❌ | — |
 | [spewingmucus](https://www.twitch.tv/spewingmucus) | ❌ | — |
