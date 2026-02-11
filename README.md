@@ -8,7 +8,7 @@ Otherwise, Full Clearzo is played using the standard [**Kaizo Ironmon** ruleset]
 This increases difficulty and strategic risk, as it mandates full clears of dungeons that are typically partially routed or skipped, including areas such as **Rock Tunnel**, **Silph Co.**, and **Victory Road**, and forces additional risk in early-game dungeons.
 
 ## Technical DISCLAIMER
-If your game is patched with the National Dex from the beginning (this is typically a randomizer setting), your Full Clearzo run will "break" at **Sevii Islands** and the built-in Elite Four rematch mechanics will trigger upon the first visit to the islands. There is no way to undo this.
+If your game is patched with the National Dex from the beginning (this is typically a randomizer setting), your Full Clearzo run will "break" at **Sevii Islands** and the built-in Elite Four rematch mechanics will trigger upon the first visit to the islands. There is no way to undo this. [Dr. Maple's Faster FireRed](https://github.com/DrMaple/Faster-FireRed) has been proven to not interfere with late game Clearzo.
 
 ## General Rules for Clearzo
 
