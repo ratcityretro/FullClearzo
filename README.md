@@ -15,15 +15,19 @@ If your game is patched with the National Dex from the beginning (this is typica
 0. Every Dungeon must be cleared, fully, upon entry.
 1. **Pokémon Tower** in Lavender Town must be **full-cleared up to Marowak on the first entry**.
 2. Victory Road must be full-cleared, as it is considered a Dungeon.
-3. **The Sevii Islands are legal** and may be entered at any point before the Elite Four once you unlock them.  
+3. **The Sevii Islands are legal** and **must** be entered at any point before the Elite Four once you unlock them.  
    - The three islands (One, Two, Three) accessible before the Elite Four are treated as **one continuous dungeon**.
-   - All trainers must be defeated with **no Pokémon Center or NPC heals** allowed during the clear.
+   - All 26 available trainers must be defeated with **no Pokémon Center or NPC heals** allowed during the clear.
    - You may utilize the Move Relearner once on this trip to Sevii, provided you have the necessary currency. This includes learning multiple moves.
+   - You make take the Full Restore after the 4 biker trainers.
+   - You may keep the iapapa berry after the Hypno fight.
+   - You may not take any other items.
 4. After you defeat the Elite Four, your leaderboard position is determined from your **Victory Lap** on the remaining Sevii Islands (Four, Five, Six, Seven).
-   - These islands are considered one continuous dungeon.
-   - Pokémon Center and NPC heals are forbidden.
+   - These islands are considered one continuous dungeon with 75+ trainers.
    - You may ultilize the Move Relearner once on this trip to Sevii.
-   - This is a death march. You proceed until your Pokémon faints, tracking how many trainers you defeated at the time of demise.
+   - Pokémon Center and NPC heals are forbidden.
+   - You may not take any other items.
+   - This is a death march. You proceed until your Pokémon faints, tracking how many trainers you defeated at the time of demise with the `!progress sevii` Tracker command.
 5. Legendary Pokémon with exactly a **BST of 580** are legal as starter Pokémon.  
    - If a BST 580 Pokémon is taken from the starter table, **the chosen Pokémon must be ran unless otherwise disallowed due to other rules**.
    - If the Pokémon can be ran, you are not allowed to pivot. This includes Content (Diglett) Cave pivoting as well.
