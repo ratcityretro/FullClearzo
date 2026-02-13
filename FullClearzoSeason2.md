@@ -36,6 +36,7 @@ Below are the current participants, grouped by the bet they are participating in
 | [shapedandshaded](https://www.twitch.tv/shapedandshaded) | ❌ | — |
 | [wischy](https://www.twitch.tv/wischy) | ❌ | Blastoise (85) died to Blaine's final mon and ace - Trainers defeated, including Sevii: 284/447 (63.5%) |
 | [yogurt632](https://www.twitch.tv/yogurt632) | ❌ | — |
+| [elvia](https://www.twitch.tv/elvia) | ❌ | — |
 
 ### Emote Bettors
 
