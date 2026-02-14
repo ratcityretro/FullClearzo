@@ -34,7 +34,7 @@ Below are the current participants, grouped by the bet they are participating in
 | [puffsun](https://www.twitch.tv/puffsun) | ❌ | — |
 | [spewingmucus](https://www.twitch.tv/spewingmucus) | ❌ | — |
 | [shapedandshaded](https://www.twitch.tv/shapedandshaded) | ❌ | — |
-| [wischy](https://www.twitch.tv/wischy) | ❌ | Blastoise (85) died to Blaine's final mon and ace - Trainers defeated, including Sevii: 284/447 (63.5%) |
+| [wischy](https://www.twitch.tv/wischy) | ❌ | Gengar (93) died to a Kindle Road Trainer (Sevii I, after VR) - Trainers defeated, including Sevii: 353/447 (79.0%) |
 | [yogurt632](https://www.twitch.tv/yogurt632) | ❌ | — |
 | [elvia](https://www.twitch.tv/elvia) | ❌ | — |
 
