@@ -49,7 +49,7 @@ Below are the current participants, grouped by the bet they are participating in
 
 | Participant | Seeds Completed | Furthest Submitted Clear |
 |------------|------------------|--------------------------|
-| [shiro__yami](https://www.twitch.tv/shiro__yami) | ❌ | — |
+| [shiro__yami](https://www.twitch.tv/shiro__yami) | ❌ | Pidgeot (49) died to the first trainer after S.S. Anne Rival |
 
 ## Notes
 
