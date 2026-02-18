@@ -43,7 +43,7 @@ Below are the current participants, grouped by the bet they are participating in
 | Participant | Seeds Completed | Furthest Submitted Clear |
 |------------|------------------|--------------------------|
 | [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌ | — |
-| [cheesebutt__](https://www.twitch.tv/cheesebutt__) | ❌ | — |
+| [cheesebutt__](https://www.twitch.tv/cheesebutt__) | ❌ | Walrein on its way to Blaine |
 
 ### Charity Opt-In
 
