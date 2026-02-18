@@ -35,7 +35,14 @@ If your game is patched with the National Dex from the beginning (this is typica
 
 Good luck and **FCOD**! (full clear or die)
 
+## Resources
+[Sevii Islands Part I - One, Two, Three Islands](https://docs.google.com/document/d/1S3WkgSmRDZDncyl_Am54WbPlOVK9o3bxn7nS3CEFOlc) by Zucchinipuff
+
 ## Full Clearzo Seasons
+- **Season 1**  
+  2024  
+  Participants: Puffsun, typo, ratcityretro
+  Winner: [typo](https://www.twitch.tv/typo)
 
 - **[Season 2](./FullClearzoSeason2.md)**  
   February 1st, 2026 → April 30th, 2026  
