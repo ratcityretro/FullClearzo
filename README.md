@@ -42,10 +42,12 @@ Good luck and **FCOD**! (full clear or die)
 - **Season 1**  
   2024  
   Participants: Puffsun, typo, ratcityretro
+
   Winner: [typo](https://www.twitch.tv/typo)
 
 - **[Season 2](./FullClearzoSeason2.md)**  
   February 1st, 2026 → April 30th, 2026  
   Tracks participants, progress, and bet outcomes.
+  
   Winner: TBD
 
