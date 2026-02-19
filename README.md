@@ -19,6 +19,7 @@ If your game is patched with the National Dex from the beginning (this is typica
    - The three islands (One, Two, Three) accessible before the Elite Four are treated as **one continuous dungeon**.
    - All 26 available trainers must be defeated with **no Pokémon Center or NPC heals** allowed during the clear.
    - You may utilize the Move Relearner once on this trip to Sevii, provided you have the necessary currency. This includes learning multiple moves.
+   - Pokémon Center and NPC heals are forbidden, including the water tiles in the Kindle Road Ember Spa.
    - You make take the Full Restore after the 4 biker trainers.
    - You may keep the iapapa berry after the Hypno fight.
    - You may not take any other items.
