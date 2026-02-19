@@ -29,12 +29,12 @@ Below are the current participants, grouped by the bet they are participating in
 
 | Participant | Seeds Completed | Furthest Submitted Clear |
 |------------|------------------|--------------------------|
-| [zeldacore](https://www.twitch.tv/zeldacore) | ❌ | A Pidgeot heading to Blaine, too full of hate to die |
+| [zeldacore](https://www.twitch.tv/zeldacore) | ❌ | [Pidgeot (88) died to a Viridian Gym trainer](www.twitch.tv/zeldacore/clip/BoxyLightJalapenoDBstyle-i7AqR0hU1IRA04Ps) - Trainers defeated, including Sevii: 333/447 (74.5%) |
 | [ratcityretro](https://www.twitch.tv/ratcityretro) | ❌ | — |
 | [puffsun](https://www.twitch.tv/puffsun) | ❌ | — |
 | [spewingmucus](https://www.twitch.tv/spewingmucus) | ❌ | — |
 | [shapedandshaded](https://www.twitch.tv/shapedandshaded) | ❌ | — |
-| [wischy](https://www.twitch.tv/wischy) | ❌ | [Gengar (93) died to a Kindle Road Trainer]( https://www.twitch.tv/wischy/clip/SillyPolishedCobblerHeyGirl-prqo5lcChAwv22AV) (Sevii I, after VR) - Trainers defeated, including Sevii: 353/447 (79.0%) |
+| [wischy](https://www.twitch.tv/wischy) | ❌ | [Gengar (93) died to a Kindle Road Trainer](https://www.twitch.tv/wischy/clip/SillyPolishedCobblerHeyGirl-prqo5lcChAwv22AV) (Sevii I, after VR) - Trainers defeated, including Sevii: 353/447 (79.0%) |
 | [yogurt632](https://www.twitch.tv/yogurt632) | ❌ | — |
 | [elvia](https://www.twitch.tv/elvia) | ❌ | — |
 
