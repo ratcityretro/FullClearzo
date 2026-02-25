@@ -45,11 +45,7 @@ Below are the current participants, grouped by the bet they are participating in
 |------------|------------------|--------------------------|
 | [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌ | — |
 | [cheesebutt__](https://www.twitch.tv/cheesebutt__) | ❌ | [Arcanine (95) died to the final Pokemon of Agatha](www.twitch.tv/cheesebutt__/clip/FlaccidFriendlyMageKreygasm-2bMnCzHGpv4VOpdQ) - Trainers defeated, including Sevii: 375/447 (83.9%) [CURRENT WR] |
-
-### Charity Opt-In
-
-| Participant | Seeds Completed | Furthest Submitted Clear |
-|------------|------------------|--------------------------|
+| [ecofroggy](https://www.twitch.tv/ecofroggy) | ❌ | — |
 
 
 ## Notes
