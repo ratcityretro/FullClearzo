@@ -43,7 +43,7 @@ Below are the current participants, grouped by the bet they are participating in
 | Participant | Seeds Completed | Furthest Submitted Clear |
 |------------|------------------|--------------------------|
 | [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌ | — |
-| [cheesebutt__](https://www.twitch.tv/cheesebutt__) | ❌ | Walrein (77) died to a surf grind trainer after Koga |
+| [cheesebutt__](https://www.twitch.tv/cheesebutt__) | ❌ | Arcanine (95) died to the final Pokemon of Agatha - Trainers defeated, including Sevii: 375/447 (83.9%) |
 
 ### Charity Opt-In
 
