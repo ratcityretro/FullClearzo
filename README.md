@@ -40,7 +40,11 @@ If your game is patched with the National Dex from the beginning (this is typica
 Good luck and **FCOD**! (full clear or die)
 
 ## Resources
-[Sevii Islands Part I - One, Two, Three Islands](https://docs.google.com/document/d/1S3WkgSmRDZDncyl_Am54WbPlOVK9o3bxn7nS3CEFOlc) by Zucchinipuff
+- [Sevii Islands Part I - One, Two, Three Islands](https://docs.google.com/document/d/1S3WkgSmRDZDncyl_Am54WbPlOVK9o3bxn7nS3CEFOlc) by Zucchinipuff
+- [Faster FireRed Patch](https://github.com/DrMaple/Faster-FireRed) by DrMaple
+- [Interactive FRLG Map](https://kelseyyoung.github.io/FRLGIronmonMap) by Kelsey Young (NOTE: this does not include Sevii)
+- [FRLG Vision Map](https://imgur.com/a/frlg-kaizo-vision-maps-A7m2Vsx) by iAmSlammer (NOTE: this partially includes Sevii)
+- [Stream Connect for the IronMON Tracker](github.com/besteon/Ironmon-Tracker/wiki/Stream-Connect-Guide) by UTDZac (NOTE: this is required for the `!progress sevii` command)
 
 ## Full Clearzo Seasons
 - **Season 1**  
