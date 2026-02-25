@@ -17,16 +17,19 @@ If your game is patched with the National Dex from the beginning (this is typica
 2. Victory Road must be full-cleared, as it is considered a Dungeon.
 3. **The Sevii Islands are legal** and **must** be entered at any point before the Elite Four once you unlock them.  
    - The three islands (One, Two, Three) accessible before the Elite Four are treated as **one continuous dungeon**.
-   - All 26 available trainers must be defeated with **no Pokémon Center or NPC heals** allowed during the clear.
+   - All 26 available trainers must be defeated with **no Pokémon Center or NPC heals** allowed during the clear, including two double battles which will require your HM friend.
    - You may utilize the Move Relearner once on this trip to Sevii, provided you have the necessary currency. This includes learning multiple moves.
    - Pokémon Center and NPC heals are forbidden, including the water tiles in the Kindle Road Ember Spa.
+   - If your HM friend dies in a double battle, you may ONLY revive it with a revive item or by depositing the friend in the PC. NOTE: You do not have access to the PC on Three Island until you finish the Lostelle quest and obtain the iapapa berry.
    - You make take the Full Restore after the 4 biker trainers.
    - You may keep the iapapa berry after the Hypno fight.
    - You may not take any other items.
 4. After you defeat the Elite Four, your leaderboard position is determined from your **Victory Lap** on the remaining Sevii Islands (Four, Five, Six, Seven).
    - These islands are considered one continuous dungeon with 75+ trainers.
    - You may ultilize the Move Relearner once on this trip to Sevii.
-   - Pokémon Center and NPC heals are forbidden, including the water tiles in the Kindle Road Spa.
+   - The same HM friend caveat applies as before.
+   - You may catch a second HM friend for Rock Smash and Waterfall.
+   - Pokémon Center and NPC heals are still forbidden, including the water tiles in the Kindle Road Spa.
    - You may not take any other items.
    - This is a death march. You proceed until your Pokémon faints, tracking how many trainers you defeated at the time of demise with the `!progress sevii` Tracker command.
 5. Legendary Pokémon with exactly a **BST of 580** are legal as starter Pokémon.  
