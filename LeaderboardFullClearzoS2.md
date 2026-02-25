@@ -8,7 +8,7 @@ Entry must be declared in [typo's Discord](https://discord.gg/Q8zYpznW), in the 
 
 ## The Bets
 
-All participants are competing to achieve the **furthest valid clear** within the 1500 seeds they attempt during the Season 2 window. Progress is measure by furthest clear using the tracker command `!progress sevii` which will give you total out of 447 trainers and a percentage. Outcomes are determined per bet category as follows:
+All participants are competing to achieve the **furthest valid clear** within the 1500 seeds they attempt during the Season 2 window. You **DO NOT** have to complete all your seeds to be eligible. Progress is measure by furthest clear using the tracker command `!progress sevii` which will give you total out of 447 trainers and a percentage. Outcomes are determined per bet category as follows:
 
 **Gift Subs Bet**  
 Participants who do **not** hold the furthest clear among all submitted runs will be asked to **gift 25 Twitch subs to the victor**. Sub gifting will be coordinated for optimizing a colossal **Hype Train**, though participants may complete their obligation in multiple installments if necessary.
