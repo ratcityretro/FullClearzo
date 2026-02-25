@@ -25,7 +25,7 @@ This option replaces sub gifting entirely for those participants and must be dec
 
 Below are the current participants, grouped by the bet they are participating in.
 
-### Gift Sub Bettors
+### Gift Sub & Charity* Bettors
 
 | Participant | Seeds Completed | Furthest Submitted Clear |
 |------------|------------------|--------------------------|
@@ -37,19 +37,20 @@ Below are the current participants, grouped by the bet they are participating in
 | [wischy](https://www.twitch.tv/wischy) | ✔️ | [Gengar (93) died to a Kindle Road Trainer](https://www.twitch.tv/wischy/clip/SillyPolishedCobblerHeyGirl-prqo5lcChAwv22AV) (Sevii I, after VR) - Trainers defeated, including Sevii: 353/447 (79.0%) |
 | [yogurt632](https://www.twitch.tv/yogurt632) | ❌ | — |
 | [elvia](https://www.twitch.tv/elvia) | ❌ | — |
+| [shiro__yami](https://www.twitch.tv/shiro__yami)* | ❌ | Pidgeot (43) died to the first trainer after S.S. Anne Rival |
 
 ### Emote Bettors
 
 | Participant | Seeds Completed | Furthest Submitted Clear |
 |------------|------------------|--------------------------|
 | [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌ | — |
-| [cheesebutt__](https://www.twitch.tv/cheesebutt__) | ❌ | Arcanine (95) died to the final Pokemon of Agatha - Trainers defeated, including Sevii: 375/447 (83.9%) |
+| [cheesebutt__](https://www.twitch.tv/cheesebutt__) | ❌ | [Arcanine (95) died to the final Pokemon of Agatha](www.twitch.tv/cheesebutt__/clip/FlaccidFriendlyMageKreygasm-2bMnCzHGpv4VOpdQ) - Trainers defeated, including Sevii: 375/447 (83.9%) |
 
 ### Charity Opt-In
 
 | Participant | Seeds Completed | Furthest Submitted Clear |
 |------------|------------------|--------------------------|
-| [shiro__yami](https://www.twitch.tv/shiro__yami) | ❌ | Pidgeot (43) died to the first trainer after S.S. Anne Rival |
+
 
 ## Notes
 
