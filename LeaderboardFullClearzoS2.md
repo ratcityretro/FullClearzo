@@ -37,7 +37,7 @@ Below are the current participants, grouped by the bet they are participating in
 | [wischy](https://www.twitch.tv/wischy) | ✔️ | [Gengar (93) died to a Kindle Road Trainer](https://www.twitch.tv/wischy/clip/SillyPolishedCobblerHeyGirl-prqo5lcChAwv22AV) (Sevii I, after VR) - Trainers defeated, including Sevii: 353/447 (79.0%) [FORMER WR] |
 | [yogurt632](https://www.twitch.tv/yogurt632) | ❌ | — |
 | [elvia](https://www.twitch.tv/elvia) | ❌ | — |
-| [shiro__yami](https://www.twitch.tv/shiro__yami)* | ❌ | A Magmar currently past Koga |
+| [shiro__yami](https://www.twitch.tv/shiro__yami)* | ❌ | Magmar (X) died to a Surf Grind Trainer - Trainers defeated, including Sevii: 230/447 (51.5%) |
 
 ### Emote Bettors
 
