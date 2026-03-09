@@ -29,7 +29,7 @@ Below are the current participants, grouped by the bet they are participating in
 
 | Participant | Seeds Completed | Furthest Submitted Clear |
 |------------|------------------|--------------------------|
-| [zeldacore](https://www.twitch.tv/zeldacore) | ❌ | [Pidgeot (88) died to a Viridian Gym trainer](www.twitch.tv/zeldacore/clip/BoxyLightJalapenoDBstyle-i7AqR0hU1IRA04Ps) - Trainers defeated, including Sevii: 333/447 (74.5%) |
+| [zeldacore](https://www.twitch.tv/zeldacore) | ❌ | [Pidgeot (88) died to a Viridian Gym trainer](https://www.twitch.tv/zeldacore/clip/BoxyLightJalapenoDBstyle-i7AqR0hU1IRA04Ps) - Trainers defeated, including Sevii: 333/447 (74.5%) |
 | [ratcityretro](https://www.twitch.tv/ratcityretro) | ❌ | A Kabutops currently past Koga |
 | [puffsun](https://www.twitch.tv/puffsun) | ❌ | — |
 | [spewingmucus](https://www.twitch.tv/spewingmucus) | ❌ | — |
@@ -44,7 +44,7 @@ Below are the current participants, grouped by the bet they are participating in
 | Participant | Seeds Completed | Furthest Submitted Clear |
 |------------|------------------|--------------------------|
 | [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌ | — |
-| [cheesebutt__](https://www.twitch.tv/cheesebutt__) | ❌ | [Arcanine (95) died to the final Pokemon of Agatha](www.twitch.tv/cheesebutt__/clip/FlaccidFriendlyMageKreygasm-2bMnCzHGpv4VOpdQ) - Trainers defeated, including Sevii: 375/447 (83.9%) [CURRENT WR] |
+| [cheesebutt__](https://www.twitch.tv/cheesebutt__) | ❌ | [Arcanine (95) died to the final Pokemon of Agatha](https://www.twitch.tv/cheesebutt__/clip/FlaccidFriendlyMageKreygasm-2bMnCzHGpv4VOpdQ) - Trainers defeated, including Sevii: 375/447 (83.9%) [CURRENT WR] |
 | [ecofroggy](https://www.twitch.tv/ecofroggy) | ❌ | — |
 
 
