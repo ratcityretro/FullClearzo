@@ -43,7 +43,7 @@ Below are the current participants, grouped by the bet they are participating in
 
 | Participant | Seeds Completed | Furthest Submitted Clear |
 |------------|------------------|--------------------------|
-| [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌ | [Delcatty (not joking) (95) died to an Ace Trainer in Victory Road]([there will be a clip here](https://www.twitch.tv/zucchinipuff/clip/InventiveNeighborlyToadKappaWealth-CzVPpeqUuWvkW-DD)) - Trainers defeated, including Sevii: 370/447 (82.8%) |
+| [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌ | [Delcatty (not joking) (95) died to an Ace Trainer in Victory Road](https://www.twitch.tv/zucchinipuff/clip/InventiveNeighborlyToadKappaWealth-CzVPpeqUuWvkW-DD) - Trainers defeated, including Sevii: 370/447 (82.8%) |
 | [cheesebutt__](https://www.twitch.tv/cheesebutt__) | ❌ | [Arcanine (95) died to the final Pokemon of Agatha](https://www.twitch.tv/cheesebutt__/clip/FlaccidFriendlyMageKreygasm-2bMnCzHGpv4VOpdQ) - Trainers defeated, including Sevii: 375/447 (83.9%) [CURRENT WR] |
 | [ecofroggy](https://www.twitch.tv/ecofroggy) | ❌ | — |
 
