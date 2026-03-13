@@ -27,7 +27,7 @@ Below are the current participants, grouped by the bet they are participating in
 
 ### Gift Sub & Charity* Bettors
 
-| Participant                                              | Seeds Done | Trainers Defeated | Clip                                                                                                              | Position |
+| Participant                                              | Seeds Done | Season Milestone | Clip                                                                                                              | Position |
 | -------------------------------------------------------- | --------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------- | -------- |
 | [wischy](https://www.twitch.tv/wischy)                   | ✔️              | 353/447 (79.0%)   | [Gengar (93)](https://www.twitch.tv/wischy/clip/SillyPolishedCobblerHeyGirl-prqo5lcChAwv22AV)                     | 🏆        |
 | [zeldacore](https://www.twitch.tv/zeldacore)             | ❌               | 333/447 (74.5%)   | [Pidgeot (88)](https://www.twitch.tv/zeldacore/clip/BoxyLightJalapenoDBstyle-i7AqR0hU1IRA04Ps)                    | 2        |
@@ -41,7 +41,7 @@ Below are the current participants, grouped by the bet they are participating in
 
 
 ### Emote Bettors
-| Participant                                        | Seeds Completed | Season Milestone | Clip                                                                                                                      | Position |
+| Participant                                        | Seeds Done | Season Milestone | Clip                                                                                                                      | Position |
 | -------------------------------------------------- | --------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- | -------- |
 | [cheesebutt__](https://www.twitch.tv/cheesebutt__) | ❌               | 375/447 (83.9%)   | [Arcanine (95)](https://www.twitch.tv/cheesebutt__/clip/FlaccidFriendlyMageKreygasm-2bMnCzHGpv4VOpdQ)                     | 🏆 (Season WR)        |
 | [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌               | 370/447 (82.8%)   | [Delcatty (not joking) (95)](https://www.twitch.tv/zucchinipuff/clip/InventiveNeighborlyToadKappaWealth-CzVPpeqUuWvkW-DD) | 2        |
