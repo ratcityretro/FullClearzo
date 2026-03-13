@@ -27,29 +27,30 @@ Below are the current participants, grouped by the bet they are participating in
 
 ### Gift Sub & Charity* Bettors
 
-| Participant | Seeds Completed | Furthest Submitted Clear |
-|------------|------------------|--------------------------|
-| [zeldacore](https://www.twitch.tv/zeldacore) | ❌ | [Pidgeot (88) died to a Viridian Gym trainer](https://www.twitch.tv/zeldacore/clip/BoxyLightJalapenoDBstyle-i7AqR0hU1IRA04Ps) - Trainers defeated, including Sevii: 333/447 (74.5%) |
-| [ratcityretro](https://www.twitch.tv/ratcityretro) | ❌ | [Kabutops (82) died to Ho-oh (ace counter) on Blaine](https://www.twitch.tv/ratcityretro/clip/SarcasticBlueDumplingsCharlietheUnicorn-I0M5A-uB-c83j_hR) - Trainers defeated, including Sevii: 277/447 (62.0%) |
-| [puffsun](https://www.twitch.tv/puffsun) | ❌ | — |
-| [spewingmucus](https://www.twitch.tv/spewingmucus) | ❌ | — |
-| [shapedandshaded](https://www.twitch.tv/shapedandshaded) | ❌ | — |
-| [wischy](https://www.twitch.tv/wischy) | ✔️ | [Gengar (93) died to a Kindle Road Trainer](https://www.twitch.tv/wischy/clip/SillyPolishedCobblerHeyGirl-prqo5lcChAwv22AV) (Sevii I, after VR) - Trainers defeated, including Sevii: 353/447 (79.0%) [FORMER WR] |
-| [yogurt632](https://www.twitch.tv/yogurt632) | ❌ | — |
-| [elvia](https://www.twitch.tv/elvia) | ❌ | — |
-| [shiro__yami](https://www.twitch.tv/shiro__yami)* | ❌ | Magmar (76) died to a Surf Grind Trainer - Trainers defeated, including Sevii: 230/447 (51.5%) |
+| Participant                                              | Seeds Done | Trainers Defeated | Clip                                                                                                              | Position |
+| -------------------------------------------------------- | --------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------- | -------- |
+| [wischy](https://www.twitch.tv/wischy)                   | ✔️              | 353/447 (79.0%)   | [Gengar (93)](https://www.twitch.tv/wischy/clip/SillyPolishedCobblerHeyGirl-prqo5lcChAwv22AV)                     | 🏆        |
+| [zeldacore](https://www.twitch.tv/zeldacore)             | ❌               | 333/447 (74.5%)   | [Pidgeot (88)](https://www.twitch.tv/zeldacore/clip/BoxyLightJalapenoDBstyle-i7AqR0hU1IRA04Ps)                    | 2        |
+| [ratcityretro](https://www.twitch.tv/ratcityretro)       | ❌               | 277/447 (62.0%)   | [Kabutops (82)](https://www.twitch.tv/ratcityretro/clip/SarcasticBlueDumplingsCharlietheUnicorn-I0M5A-uB-c83j_hR) | 3        |
+| [shiro__yami](https://www.twitch.tv/shiro__yami)*        | ❌               | 230/447 (51.5%)   | [Magmar (76)](https://www.twitch.tv/shiro__yami/clip/DeterminedSmoothEggnogRiPepperonis-ZT4icbQnev6hDpCc)         | 4        |
+| [puffsun](https://www.twitch.tv/puffsun)                 | ❌               | —                 | —                                                                                                                 | —        |
+| [spewingmucus](https://www.twitch.tv/spewingmucus)       | ❌               | —                 | —                                                                                                                 | —        |
+| [shapedandshaded](https://www.twitch.tv/shapedandshaded) | ❌               | —                 | —                                                                                                                 | —        |
+| [yogurt632](https://www.twitch.tv/yogurt632)             | ❌               | —                 | —                                                                                                                 | —        |
+| [elvia](https://www.twitch.tv/elvia)                     | ❌               | —                 | —                                                                                                                 | —        |
+
 
 ### Emote Bettors
+| Participant                                        | Seeds Completed | Season Milestone | Clip                                                                                                                      | Position |
+| -------------------------------------------------- | --------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [cheesebutt__](https://www.twitch.tv/cheesebutt__) | ❌               | 375/447 (83.9%)   | [Arcanine (95)](https://www.twitch.tv/cheesebutt__/clip/FlaccidFriendlyMageKreygasm-2bMnCzHGpv4VOpdQ)                     | 🏆 (Season WR)        |
+| [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌               | 370/447 (82.8%)   | [Delcatty (not joking) (95)](https://www.twitch.tv/zucchinipuff/clip/InventiveNeighborlyToadKappaWealth-CzVPpeqUuWvkW-DD) | 2        |
+| [ecofroggy](https://www.twitch.tv/ecofroggy)       | ❌               | —                 | —                                                                                                                         | —        |
 
-| Participant | Seeds Completed | Furthest Submitted Clear |
-|------------|------------------|--------------------------|
-| [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌ | [Delcatty (not joking) (95) died to an Ace Trainer in Victory Road](https://www.twitch.tv/zucchinipuff/clip/InventiveNeighborlyToadKappaWealth-CzVPpeqUuWvkW-DD) - Trainers defeated, including Sevii: 370/447 (82.8%) |
-| [cheesebutt__](https://www.twitch.tv/cheesebutt__) | ❌ | [Arcanine (95) died to the final Pokemon of Agatha](https://www.twitch.tv/cheesebutt__/clip/FlaccidFriendlyMageKreygasm-2bMnCzHGpv4VOpdQ) - Trainers defeated, including Sevii: 375/447 (83.9%) [CURRENT WR] |
-| [ecofroggy](https://www.twitch.tv/ecofroggy) | ❌ | — |
 
 
 ## Notes
 
-- **Seeds Completed** will be updated as runs are verified.
-- **Furthest Submitted Clear** should reflect the deepest valid dungeon clear submitted under Full Clearzo rules.
+- **Season Milestone** should reflect the deepest valid run clear submitted under Full Clearzo season 2 rules.
 - All submissions are subject to verification and SCRUTINY.
+- Submit your runs, logs, or clips to the #clearzo-gc channel in the [typo Discord](https://discord.gg/Q8zYpznW).
