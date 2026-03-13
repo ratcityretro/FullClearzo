@@ -30,14 +30,14 @@ Below are the current participants, grouped by the bet they are participating in
 | Participant | Seeds Completed | Furthest Submitted Clear |
 |------------|------------------|--------------------------|
 | [zeldacore](https://www.twitch.tv/zeldacore) | ❌ | [Pidgeot (88) died to a Viridian Gym trainer](https://www.twitch.tv/zeldacore/clip/BoxyLightJalapenoDBstyle-i7AqR0hU1IRA04Ps) - Trainers defeated, including Sevii: 333/447 (74.5%) |
-| [ratcityretro](https://www.twitch.tv/ratcityretro) | ❌ | A Kabutops currently past Koga |
+| [ratcityretro](https://www.twitch.tv/ratcityretro) | ❌ | [Kabutops (82) died to Ho-oh (ace counter) on Blaine](https://www.twitch.tv/ratcityretro/clip/SarcasticBlueDumplingsCharlietheUnicorn-I0M5A-uB-c83j_hR) - Trainers defeated, including Sevii: 277/447 (62.0%) |
 | [puffsun](https://www.twitch.tv/puffsun) | ❌ | — |
 | [spewingmucus](https://www.twitch.tv/spewingmucus) | ❌ | — |
 | [shapedandshaded](https://www.twitch.tv/shapedandshaded) | ❌ | — |
 | [wischy](https://www.twitch.tv/wischy) | ✔️ | [Gengar (93) died to a Kindle Road Trainer](https://www.twitch.tv/wischy/clip/SillyPolishedCobblerHeyGirl-prqo5lcChAwv22AV) (Sevii I, after VR) - Trainers defeated, including Sevii: 353/447 (79.0%) [FORMER WR] |
 | [yogurt632](https://www.twitch.tv/yogurt632) | ❌ | — |
 | [elvia](https://www.twitch.tv/elvia) | ❌ | — |
-| [shiro__yami](https://www.twitch.tv/shiro__yami)* | ❌ | Magmar (X) died to a Surf Grind Trainer - Trainers defeated, including Sevii: 230/447 (51.5%) |
+| [shiro__yami](https://www.twitch.tv/shiro__yami)* | ❌ | Magmar (76) died to a Surf Grind Trainer - Trainers defeated, including Sevii: 230/447 (51.5%) |
 
 ### Emote Bettors
 
