@@ -30,9 +30,9 @@ Below are the current participants, grouped by the bet they are participating in
 | Participant                                              | Seeds Done | Season Milestone | Clip                                                                                                              | Position |
 | -------------------------------------------------------- | --------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------- | -------- |
 | [wischy](https://www.twitch.tv/wischy)                   | ✔️              | 353/447 (79.0%)   | [Gengar (93)](https://www.twitch.tv/wischy/clip/SillyPolishedCobblerHeyGirl-prqo5lcChAwv22AV)                     | 🏆        |
-| [zeldacore](https://www.twitch.tv/zeldacore)             | ❌               | 333/447 (74.5%)   | [Pidgeot (88)](https://www.twitch.tv/zeldacore/clip/BoxyLightJalapenoDBstyle-i7AqR0hU1IRA04Ps)                    | 2        |
-| [ratcityretro](https://www.twitch.tv/ratcityretro)       | ❌               | 277/447 (62.0%)   | [Kabutops (82)](https://www.twitch.tv/ratcityretro/clip/SarcasticBlueDumplingsCharlietheUnicorn-I0M5A-uB-c83j_hR) | 3        |
-| [shiro__yami](https://www.twitch.tv/shiro__yami)*        | ❌               | 230/447 (51.5%)   | [Magmar (76)](https://www.twitch.tv/shiro__yami/clip/DeterminedSmoothEggnogRiPepperonis-ZT4icbQnev6hDpCc)         | 4        |
+| [shiro__yami](https://www.twitch.tv/shiro__yami)*        | ❌               | 336/447 (75.2%)   | [Snorlax (91)](https://www.twitch.tv/shiro__yami/clip/ArborealEndearingLasagnaKappaClaus-Aaxa_SH9iWBgs2zB)         | 2        |
+| [zeldacore](https://www.twitch.tv/zeldacore)             | ❌               | 333/447 (74.5%)   | [Pidgeot (88)](https://www.twitch.tv/zeldacore/clip/BoxyLightJalapenoDBstyle-i7AqR0hU1IRA04Ps)                    | 3        |
+| [ratcityretro](https://www.twitch.tv/ratcityretro)       | ❌               | 277/447 (62.0%)   | [Kabutops (82)](https://www.twitch.tv/ratcityretro/clip/SarcasticBlueDumplingsCharlietheUnicorn-I0M5A-uB-c83j_hR) | 4        |
 | [puffsun](https://www.twitch.tv/puffsun)                 | ❌               | —                 | —                                                                                                                 | —        |
 | [spewingmucus](https://www.twitch.tv/spewingmucus)       | ❌               | —                 | —                                                                                                                 | —        |
 | [shapedandshaded](https://www.twitch.tv/shapedandshaded) | ❌               | —                 | —                                                                                                                 | —        |
@@ -43,7 +43,7 @@ Below are the current participants, grouped by the bet they are participating in
 ### Emote Bettors
 | Participant                                        | Seeds Done | Season Milestone | Clip                                                                                                                      | Position |
 | -------------------------------------------------- | --------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [cheesebutt__](https://www.twitch.tv/cheesebutt__) | ❌               | 375/447 (83.9%)   | [Arcanine (95)](https://www.twitch.tv/cheesebutt__/clip/FlaccidFriendlyMageKreygasm-2bMnCzHGpv4VOpdQ)                     | 🏆 (Season WR)        |
+| [cheesebuh](https://www.twitch.tv/cheesebuh) | ❌               | 375/447 (83.9%)   | [Arcanine (95)](https://www.twitch.tv/cheesebuh/clip/FlaccidFriendlyMageKreygasm-2bMnCzHGpv4VOpdQ)                     | 🏆 (Season WR)        |
 | [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌               | 370/447 (82.8%)   | [Delcatty (not joking) (95)](https://www.twitch.tv/zucchinipuff/clip/InventiveNeighborlyToadKappaWealth-CzVPpeqUuWvkW-DD) | 2        |
 | [ecofroggy](https://www.twitch.tv/ecofroggy)       | ❌               | —                 | —                                                                                                                         | —        |
 
