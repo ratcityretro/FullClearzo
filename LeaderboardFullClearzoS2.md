@@ -34,7 +34,6 @@ Below are the current participants, grouped by the bet they are participating in
 | [puffsun](https://www.twitch.tv/puffsun)                 | ❌               | 333/447 (74.5%)   | [Blissey (80-something)](aintnoclip)                                                                                | 3        |
 | [zeldacore](https://www.twitch.tv/zeldacore)             | ❌               | 326/447 (72.7%)   | [Pidgeot (88)](https://www.twitch.tv/zeldacore/clip/BoxyLightJalapenoDBstyle-i7AqR0hU1IRA04Ps)                    | 4        |
 | [ratcityretro](https://www.twitch.tv/ratcityretro)       | ❌               | 277/447 (62.0%)   | [Kabutops (82)](https://www.twitch.tv/ratcityretro/clip/SarcasticBlueDumplingsCharlietheUnicorn-I0M5A-uB-c83j_hR) | 5        |
-
 | [spewingmucus](https://www.twitch.tv/spewingmucus)       | ❌               | —                 | —                                                                                                                 | —        |
 | [shapedandshaded](https://www.twitch.tv/shapedandshaded) | ❌               | —                 | —                                                                                                                 | —        |
 | [yogurt632](https://www.twitch.tv/yogurt632)             | ❌               | —                 | —                                                                                                                 | —        |
