@@ -43,7 +43,7 @@ Below are the current participants, grouped by the bet they are participating in
 ### Emote Bettors
 | Participant                                        | Seeds Done | Season Milestone | Clip                                                                                                                      | Position |
 | -------------------------------------------------- | --------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- | --------|
-| [ecofroggy](https://www.twitch.tv/ecofroggy)       | ❌               | 376/447 (84.1%)   | [Umbreon (98)](thereisaclipimnotloggedintotwitchonthiscomputer)                  | 🏆 (Season WR)    |
+| [ecofroggy](https://www.twitch.tv/ecofroggy)       | ❌               | 376/447 (84.1%)   | [Umbreon (98)](https://www.twitch.tv/ecofroggy/clip/AmericanPrettiestConsoleOSsloth-rKTPe77LFV4whuuV)                  | 🏆 (Season WR)    |
 | [cheesebuh](https://www.twitch.tv/cheesebuh) | ❌               | 375/447 (83.9%)   | [Arcanine (95)](https://www.twitch.tv/cheesebuh/clip/FlaccidFriendlyMageKreygasm-2bMnCzHGpv4VOpdQ)                     | 2        |
 | [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌               | 370/447 (82.8%)   | [Delcatty (not joking) (95)](https://www.twitch.tv/zucchinipuff/clip/InventiveNeighborlyToadKappaWealth-CzVPpeqUuWvkW-DD) | 3    |
 
