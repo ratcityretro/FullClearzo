@@ -29,7 +29,7 @@ Below are the current participants, grouped by the bet they are participating in
 
 | Participant                                              | Seeds Done | Season Milestone | Clip                                                                                                              | Position |
 | -------------------------------------------------------- | --------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------- | -------- |
-| [shiro__yami](https://www.twitch.tv/shiro__yami)*        | ❌               | 370/447 (82.8%)   | [Vaporeon (95)](https://www.twitch.tv/shiro__yami/clip/VivaciousImpartialAmazonPlanking-zGvnFyrJQ5PfFWyy)         | 🏆        |
+| [shiro__yami](https://www.twitch.tv/shiro__yami)*        | ❌               | 370/447 (82.8%)   | [Vaporeon (95)](https://www.twitch.tv/shiro__yami/clip/VivaciousImpartialAmazonPlanking-zGvnFyrJQ5PfFWyy)         | 🏆      |
 | [wischy](https://www.twitch.tv/wischy)                   | ✔️              | 353/447 (79.0%)   | [Gengar (93)](https://www.twitch.tv/wischy/clip/SillyPolishedCobblerHeyGirl-prqo5lcChAwv22AV)                     |  2       |
 | [puffsun](https://www.twitch.tv/puffsun)                 | ❌               | 333/447 (74.5%)   | [Blissey (89)](https://www.twitch.tv/puffsun/clip/ClumsyBlindingOkapiBrokeBack-ETVm5nHlwXNrTD5g)          | 3        |
 | [zeldacore](https://www.twitch.tv/zeldacore)             | ❌               | 326/447 (72.7%)   | [Pidgeot (88)](https://www.twitch.tv/zeldacore/clip/BoxyLightJalapenoDBstyle-i7AqR0hU1IRA04Ps)                    | 4        |
@@ -42,10 +42,10 @@ Below are the current participants, grouped by the bet they are participating in
 
 ### Emote Bettors
 | Participant                                        | Seeds Done | Season Milestone | Clip                                                                                                                      | Position |
-| -------------------------------------------------- | --------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- | -------- |
-| [cheesebuh](https://www.twitch.tv/cheesebuh) | ❌               | 375/447 (83.9%)   | [Arcanine (95)](https://www.twitch.tv/cheesebuh/clip/FlaccidFriendlyMageKreygasm-2bMnCzHGpv4VOpdQ)                     | 🏆 (Season WR)        |
-| [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌               | 370/447 (82.8%)   | [Delcatty (not joking) (95)](https://www.twitch.tv/zucchinipuff/clip/InventiveNeighborlyToadKappaWealth-CzVPpeqUuWvkW-DD) | 2        |
-| [ecofroggy](https://www.twitch.tv/ecofroggy)       | ❌               | —                 | —                                                                                                                         | —        |
+| -------------------------------------------------- | --------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- | --------|
+| [ecofroggy](https://www.twitch.tv/ecofroggy)       | ❌               | 376/447 (84.1%)   | [Umbreon (98)](thereisaclipimnotloggedintotwitchonthiscomputer)                  | 🏆 (Season WR)    |
+| [cheesebuh](https://www.twitch.tv/cheesebuh) | ❌               | 375/447 (83.9%)   | [Arcanine (95)](https://www.twitch.tv/cheesebuh/clip/FlaccidFriendlyMageKreygasm-2bMnCzHGpv4VOpdQ)                     | 2        |
+| [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌               | 370/447 (82.8%)   | [Delcatty (not joking) (95)](https://www.twitch.tv/zucchinipuff/clip/InventiveNeighborlyToadKappaWealth-CzVPpeqUuWvkW-DD) | 3    |
 
 
 
