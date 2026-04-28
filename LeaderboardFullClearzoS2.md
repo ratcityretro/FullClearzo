@@ -29,9 +29,9 @@ Below are the current participants, grouped by the bet they are participating in
 
 | Participant                                              | Seeds Done | Season Milestone | Clip                                                                                                              | Position |
 | -------------------------------------------------------- | --------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------- | -------- |
-| [shiro__yami](https://www.twitch.tv/shiro__yami)*        | ❌               | 370/447 (82.8%)   | [Vaporeon (95)](https://www.twitch.tv/shiro__yami/clip/VivaciousImpartialAmazonPlanking-zGvnFyrJQ5PfFWyy)         | 🏆      |
-| [wischy](https://www.twitch.tv/wischy)                   | ✔️              | 353/447 (79.0%)   | [Gengar (93)](https://www.twitch.tv/wischy/clip/SillyPolishedCobblerHeyGirl-prqo5lcChAwv22AV)                     |  2       |
-| [puffsun](https://www.twitch.tv/puffsun)                 | ❌               | 333/447 (74.5%)   | [Blissey (89)](https://www.twitch.tv/puffsun/clip/ClumsyBlindingOkapiBrokeBack-ETVm5nHlwXNrTD5g)          | 3        |
+| [puffsun](https://www.twitch.tv/puffsun)                 | ❌               | 375/447 (83.9%)   | [Jolteon (95)](surelythereisaclip)          | 🏆        |
+| [shiro__yami](https://www.twitch.tv/shiro__yami)*        | ❌               | 370/447 (82.8%)   | [Vaporeon (95)](https://www.twitch.tv/shiro__yami/clip/VivaciousImpartialAmazonPlanking-zGvnFyrJQ5PfFWyy)         | 2      |
+| [wischy](https://www.twitch.tv/wischy)                   | ✔️              | 353/447 (79.0%)   | [Gengar (93)](https://www.twitch.tv/wischy/clip/SillyPolishedCobblerHeyGirl-prqo5lcChAwv22AV)                     |  3       |
 | [zeldacore](https://www.twitch.tv/zeldacore)             | ❌               | 326/447 (72.7%)   | [Pidgeot (88)](https://www.twitch.tv/zeldacore/clip/BoxyLightJalapenoDBstyle-i7AqR0hU1IRA04Ps)                    | 4        |
 | [ratcityretro](https://www.twitch.tv/ratcityretro)       | ❌               | 277/447 (62.0%)   | [Kabutops (82)](https://www.twitch.tv/ratcityretro/clip/SarcasticBlueDumplingsCharlietheUnicorn-I0M5A-uB-c83j_hR) | 5        |
 | [spewingmucus](https://www.twitch.tv/spewingmucus)       | ❌               | —                 | —                                                                                                                 | —        |
