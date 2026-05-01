@@ -29,23 +29,22 @@ Below are the current participants, grouped by the bet they are participating in
 
 | Participant                                              | Seeds Done | Season Milestone | Clip                                                                                                              | Position |
 | -------------------------------------------------------- | --------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------- | -------- |
-| [puffsun](https://www.twitch.tv/puffsun)                 | ❌               | 375/447 (83.9%)   | [Jolteon (95)](surelythereisaclip)          | 🏆        |
+| [puffsun](https://www.twitch.tv/puffsun)                 | ✔️               | 375/447 (83.9%)   | [Jolteon (95)](surelythereisaclip)          | 🏆        |
 | [shiro__yami](https://www.twitch.tv/shiro__yami)*        | ❌               | 370/447 (82.8%)   | [Vaporeon (95)](https://www.twitch.tv/shiro__yami/clip/VivaciousImpartialAmazonPlanking-zGvnFyrJQ5PfFWyy)         | 2      |
 | [wischy](https://www.twitch.tv/wischy)                   | ✔️              | 353/447 (79.0%)   | [Gengar (93)](https://www.twitch.tv/wischy/clip/SillyPolishedCobblerHeyGirl-prqo5lcChAwv22AV)                     |  3       |
-| [zeldacore](https://www.twitch.tv/zeldacore)             | ❌               | 326/447 (72.7%)   | [Pidgeot (88)](https://www.twitch.tv/zeldacore/clip/BoxyLightJalapenoDBstyle-i7AqR0hU1IRA04Ps)                    | 4        |
-| [ratcityretro](https://www.twitch.tv/ratcityretro)       | ❌               | 277/447 (62.0%)   | [Kabutops (82)](https://www.twitch.tv/ratcityretro/clip/SarcasticBlueDumplingsCharlietheUnicorn-I0M5A-uB-c83j_hR) | 5        |
-| [spewingmucus](https://www.twitch.tv/spewingmucus)       | ❌               | —                 | —                                                                                                                 | —        |
-| [shapedandshaded](https://www.twitch.tv/shapedandshaded) | ❌               | —                 | —                                                                                                                 | —        |
+| [zeldacore](https://www.twitch.tv/zeldacore)             | ✔️               | 326/447 (72.7%)   | [Pidgeot (88)](https://www.twitch.tv/zeldacore/clip/BoxyLightJalapenoDBstyle-i7AqR0hU1IRA04Ps)                    | 4        |
+| [ratcityretro](https://www.twitch.tv/ratcityretro)       | ✔️               | 277/447 (62.0%)   | [Kabutops (82)](https://www.twitch.tv/ratcityretro/clip/SarcasticBlueDumplingsCharlietheUnicorn-I0M5A-uB-c83j_hR) | 5        |
+| [spewingmucus](https://www.twitch.tv/spewingmucus)       | ✔️               | —                 | —                                                                                                                 | —        |
 | [yogurt632](https://www.twitch.tv/yogurt632)             | ❌               | —                 | —                                                                                                                 | —        |
-| [elvia](https://www.twitch.tv/elvia)                     | ❌               | —                 | —                                                                                                                 | —        |
-
+| [elvia](https://www.twitch.tv/elvia)                     | 〰️               | DNF/DNP           | —                                                                                                                 | —        |
+| [shapedandshaded](https://www.twitch.tv/shapedandshaded) | 〰️               | DNF/DNP           | —                                                                                                                 | —        |
 
 ### Emote Bettors
 | Participant                                        | Seeds Done | Season Milestone | Clip                                                                                                                      | Position |
 | -------------------------------------------------- | --------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------- | --------|
-| [ecofroggy](https://www.twitch.tv/ecofroggy)       | ❌               | 376/447 (84.1%)   | [Umbreon (98)](https://www.twitch.tv/ecofroggy/clip/AmericanPrettiestConsoleOSsloth-rKTPe77LFV4whuuV)                  | 🏆 (Season WR)    |
-| [cheesebuh](https://www.twitch.tv/cheesebuh) | ❌               | 375/447 (83.9%)   | [Arcanine (95)](https://www.twitch.tv/cheesebuh/clip/FlaccidFriendlyMageKreygasm-2bMnCzHGpv4VOpdQ)                     | 2        |
-| [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ❌               | 370/447 (82.8%)   | [Delcatty (not joking) (95)](https://www.twitch.tv/zucchinipuff/clip/InventiveNeighborlyToadKappaWealth-CzVPpeqUuWvkW-DD) | 3    |
+| [ecofroggy](https://www.twitch.tv/ecofroggy)       | ✔️               | 376/447 (84.1%)   | [Umbreon (98)](https://www.twitch.tv/ecofroggy/clip/AmericanPrettiestConsoleOSsloth-rKTPe77LFV4whuuV)                  | 🏆 (Season WR)    |
+| [cheesebuh](https://www.twitch.tv/cheesebuh) | ✔️               | 375/447 (83.9%)   | [Arcanine (95)](https://www.twitch.tv/cheesebuh/clip/FlaccidFriendlyMageKreygasm-2bMnCzHGpv4VOpdQ)                     | 2        |
+| [zucchinipuff](https://www.twitch.tv/zucchinipuff) | ✔️               | 370/447 (82.8%)   | [Delcatty (not joking) (95)](https://www.twitch.tv/zucchinipuff/clip/InventiveNeighborlyToadKappaWealth-CzVPpeqUuWvkW-DD) | 3    |
 
 
 
